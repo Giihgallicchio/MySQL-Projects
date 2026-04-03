@@ -69,5 +69,5 @@ Este projeto representa minha evolução no aprendizado de MySQL, desde comandos
 
 ## | Autora
 
-Giovanna Galichio  
+- Giovanna Galichio  
  
